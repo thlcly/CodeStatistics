@@ -13,8 +13,8 @@
 
  - 安装[jdk 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html), [git](https://git-scm.com/download), [maven](https://maven.apache.org/download.cgi)
 
- - 下载项目源代码: git clone https://github.com/thlcly/CodeStatistics.git
+ - 下载项目源代码: `git clone https://github.com/thlcly/CodeStatistics.git`
 
- - 打包可运行jar文件: mvn package
+ - 打包可运行jar文件: `mvn package`
 
- - 运行: java -jar <jar-file> <file-path>
+ - 运行: `java -jar <jar-file-path> <file-path>`
